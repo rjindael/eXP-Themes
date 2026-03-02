@@ -4,7 +4,8 @@ A series of themes in Godot 4.5, meant to resemble some of the themes from Windo
 - Embedded
 - Metallic
 - Royale
-- Zune (RoyaleNoir)
+- Royale Dark
+- Zune
 
 To be used in ongoing game project [nos-pros](https://github.com/alim395/nospros-demo), and thought it would be cool to share.
 
