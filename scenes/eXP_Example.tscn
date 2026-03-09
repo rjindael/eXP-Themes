@@ -70,9 +70,10 @@ size_flags_vertical = 3
 [node name="TabContainer" type="TabContainer" parent="Window/Panel/MarginContainer/ScrollContainer/VFlowContainer"]
 layout_mode = 2
 size_flags_vertical = 3
-current_tab = 0
+current_tab = 4
 
 [node name="Buttons" type="MarginContainer" parent="Window/Panel/MarginContainer/ScrollContainer/VFlowContainer/TabContainer"]
+visible = false
 layout_mode = 2
 metadata/_tab_index = 0
 
@@ -254,7 +255,6 @@ emoji_menu_enabled = false
 scroll_fit_content_width = true
 
 [node name="Sliders" type="MarginContainer" parent="Window/Panel/MarginContainer/ScrollContainer/VFlowContainer/TabContainer"]
-visible = false
 layout_mode = 2
 metadata/_tab_index = 4
 
